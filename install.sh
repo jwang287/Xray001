@@ -1,6 +1,6 @@
 #!/bin/bash
 
-author=jwang
+author=jwang287
 # github=https://github.com/jwang287/xray001
 
 # bash fonts colors
